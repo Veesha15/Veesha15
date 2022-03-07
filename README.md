@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Veesha15
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on 2D Mobile Games and 3D PC games.
+- 💞️ I’m looking to collaborate on 2D and 3D PC games and Japanese language learning games.
 - 📫 How to reach me ...
 
 <!---
